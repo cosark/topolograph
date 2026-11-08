@@ -110,6 +110,10 @@ The engineer asks a question in natural language. Agent 1.0 calls the Topolograp
 | Watchers (OSPF / IS-IS) | No, static topology from the LSDB only; demo graph | Yes, added from the UI and installed with one command |
 | Network event history | No, demo graph only | Yes, kept for a limited time |
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Topolograph/)
+
 ## Complements your monitoring
 
 Zabbix, Prometheus, Cacti, etc. watch devices and interfaces. Topolograph shows how the network routes traffic and works alongside them.
